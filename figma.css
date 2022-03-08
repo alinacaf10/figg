@@ -1,0 +1,121 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100;200;300;400;500;600;700;800;900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+* {
+    margin: 0;
+    background-color: #9DC9C8;
+
+}
+
+.seventh {
+    height: 100vh;
+    width: 100%;
+}
+
+.ilk {
+    display: block;
+
+    width: 63vw;
+    height: 8.5vh;
+    font-size: 3.8vw;
+    font-family: 'Roboto Slab', serif;
+    margin-top: 23vh;
+    margin-left: 8.5vw;
+    margin-bottom: 0;
+    margin-right: 0;
+
+}
+
+.iki {
+    display: block;
+
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.7vw;
+    font-style: normal;
+    font-weight: 400;
+    width: 12vw;
+    height: 4vh;
+    margin-left: 8.5vw;
+    margin-top: 7vh;
+    margin-bottom: 0;
+    margin-right: 0;
+}
+.iki .p{
+    width: 11.8vw;
+    height: 4.1vh;
+
+}
+.uc {
+    display: block;
+    margin-top: 3.9vh;
+    margin-left: 8.5vw;
+    font-family: 'Roboto', sans-serif;
+    font-size: 5.5vw;
+    font-style: normal;
+    font-weight: 400;
+}
+
+.dord {
+    display: flex;
+}
+
+.aa {
+    margin-left: 8.5vw;
+    margin-top: 20vh;
+
+}
+
+.bb {
+    margin-left: 5vw;
+    margin-top: 20vh;
+
+}
+
+.aa .pa {
+    width: 20.5vw;
+    font-size: 1.7vw;
+    font-style: normal;
+    font-weight: 400;
+    letter-spacing: 0em;
+    text-align: left;
+    font-family: 'Roboto', sans-serif;
+    height: 4.1vh;
+}
+
+.aa .pb {
+    margin-top: 1vh;
+    font-size: 1.25vw;
+    font-style: normal;
+    font-weight: 400;
+    letter-spacing: 0em;
+    text-align: left;
+    font-family: 'Roboto', sans-serif;
+    width: 20.5vw;
+    height: 4.8vh;
+
+
+}
+
+.bb .pa {
+    height: 4.1vh;
+    width: 22vw;
+    font-size: 1.7vw;
+    font-style: normal;
+    font-weight: 400;
+    letter-spacing: 0em;
+    text-align: left;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+.bb .pb {
+    height: 4.8vh;
+    width: 20vw;
+    margin-top: 1vh;
+    font-size: 1.25vw;
+    font-style: normal;
+    font-weight: 400;
+    letter-spacing: 0em;
+    text-align: left;
+    font-family: 'Roboto', sans-serif;
+}
